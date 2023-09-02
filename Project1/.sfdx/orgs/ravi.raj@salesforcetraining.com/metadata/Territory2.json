@@ -1,0 +1,53 @@
+{
+  "status": 0,
+  "result": [
+    {
+      "createdById": "0056F000006QjkdQAC",
+      "createdByName": "Ravi Raj",
+      "createdDate": "1970-01-01T00:00:00.000Z",
+      "fileName": "territory2Models/Current_Fiscal_Year/territories/Southern_California.territory2",
+      "fullName": "Current_Fiscal_Year.Southern_California",
+      "id": "0MI6F000000kHHIWA2",
+      "lastModifiedById": "0056F000006QjkdQAC",
+      "lastModifiedByName": "Ravi Raj",
+      "lastModifiedDate": "2019-07-04T20:40:01.000Z",
+      "type": "Territory2"
+    },
+    {
+      "createdById": "0056F000006QjkdQAC",
+      "createdByName": "Ravi Raj",
+      "createdDate": "1970-01-01T00:00:00.000Z",
+      "fileName": "territory2Models/Current_Fiscal_Year2/territories/Northern_California.territory2",
+      "fullName": "Current_Fiscal_Year2.Northern_California",
+      "id": "0MI6F000000kHHNWA2",
+      "lastModifiedById": "0056F000006QjkdQAC",
+      "lastModifiedByName": "Ravi Raj",
+      "lastModifiedDate": "2019-07-05T10:09:06.000Z",
+      "type": "Territory2"
+    },
+    {
+      "createdById": "0056F000006QjkdQAC",
+      "createdByName": "Ravi Raj",
+      "createdDate": "1970-01-01T00:00:00.000Z",
+      "fileName": "territory2Models/Current_Fiscal_Year2/territories/Southern_California.territory2",
+      "fullName": "Current_Fiscal_Year2.Southern_California",
+      "id": "0MI6F000000kHHOWA2",
+      "lastModifiedById": "0056F000006QjkdQAC",
+      "lastModifiedByName": "Ravi Raj",
+      "lastModifiedDate": "2019-07-05T10:09:06.000Z",
+      "type": "Territory2"
+    },
+    {
+      "createdById": "0056F000006QjkdQAC",
+      "createdByName": "Ravi Raj",
+      "createdDate": "1970-01-01T00:00:00.000Z",
+      "fileName": "territory2Models/Current_Fiscal_Year/territories/Northern_California.territory2",
+      "fullName": "Current_Fiscal_Year.Northern_California",
+      "id": "0MI6F000000kHHDWA2",
+      "lastModifiedById": "0056F000006QjkdQAC",
+      "lastModifiedByName": "Ravi Raj",
+      "lastModifiedDate": "2019-07-04T20:39:10.000Z",
+      "type": "Territory2"
+    }
+  ]
+}
